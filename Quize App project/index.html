@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> QUIZ APPLICATION</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container ">
+        <div class="row">
+            <div class="card p-3 quiz-card">
+                <h1 class="text-center ">QUIZ APPLICATION</h1>
+                <div class="div-span mt-2">
+                    <span class="fs-4" id="questionNumber">1/10</span>
+                    <span class="m fs-5" id="timer">30</span>
+                </div>
+                <h5 id="que" class="mb-4 mt-2"> What is JavaScript?</h5>
+
+                <div class=" row option">
+                    <div class="col-md-6 mb-2">
+                        <button id="opt1" class="btn btn-outline-primary w-100 "></button>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <button id="opt2" class="btn btn-outline-primary w-100 "></button>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <button id="opt3" class="btn btn-outline-primary w-100 "></button>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <button id="opt4" class="btn btn-outline-primary w-100 "></button>
+                    </div>
+                    
+                        <button id="nextBtn" onclick="nextBtn()" class="btn btn-primary">Next</button>
+                    
+                </div>
+               
+
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>

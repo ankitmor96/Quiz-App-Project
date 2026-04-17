@@ -20,7 +20,7 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-![Quiz UI](https://via.placeholder.com/800x400?text=Quiz+Application+Preview)
+![Quiz UI]([https://via.placeholder.com/800x400?text=Quiz+Application+Preview](https://github.com/ankitmor96/Quiz-App-Project/blob/main/README.md))
 
 ---
 

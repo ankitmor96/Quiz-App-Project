@@ -43,7 +43,7 @@ quiz-app/
 └── README.md        # Project documentation
 ```
 
----
+--
 
 ## ⚙️ How It Works
 

@@ -1,3 +1,4 @@
+<img width="1870" height="861" alt="Screenshot 2026-04-19 063219" src="https://github.com/user-attachments/assets/b386632e-96c6-4f6e-bc99-9473e273adb8" />
 
 
 # 🧠 Quiz Application

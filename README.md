@@ -21,8 +21,7 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-github(URL) : ([https://via.placeholder.com/800x400?text=Quiz+Application+Preview](https://github.com/ankitmor96/Quiz-App-Project/blob/main/README.md))
-
+github(URL) :(https://github.com/ankitmor96/Quiz-App-Project/tree/main/Quize%20App%20project)
 ---
 
 ## 🛠️ Technologies Used
